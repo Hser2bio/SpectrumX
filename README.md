@@ -1,4 +1,4 @@
-# SPE
+# SPE original
 
 SpectrumX is fork of Pivx, improved with some of the following features: 
 
